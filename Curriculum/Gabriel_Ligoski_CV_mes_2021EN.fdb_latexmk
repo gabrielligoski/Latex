@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1639484562 "d:/Latex/Curriculum/Gabriel_Ligoski_CV_mes_2021PT.tex" "Gabriel_Ligoski_CV_mes_2021PT.pdf" "Gabriel_Ligoski_CV_mes_2021PT" 1639484566
+["lualatex"] 1639485587 "d:/Latex/Curriculum/Gabriel_Ligoski_CV_mes_2021EN.tex" "Gabriel_Ligoski_CV_mes_2021EN.pdf" "Gabriel_Ligoski_CV_mes_2021EN" 1639485591
   "D:/TexLive/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc" 1631905703 57548 a0728ec4153c10063cc6dfd72b06b4db ""
   "D:/TexLive/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1631905703 124231 f9d9972603b43087c240355f856438e6 ""
   "D:/TexLive/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1631905703 123160 58a3609d8d6532cd1ad9e195f2234910 ""
@@ -23,10 +23,10 @@
   "D:/TexLive/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/raleway-thin.luc" 1631905706 243966 dcb2f1a69d3c6d4c2903971073b3f1bf ""
   "D:/TexLive/texlive/2021/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1631906485 1385 35beb724a890eb8f86194c283756066d ""
   "D:/TexLive/texlive/2021/texmf-var/luatex-cache/generic/names/luaotfload-names.luc" 1631905703 1163200 abcdbd224d080d35f69c227fc971e979 ""
-  "Gabriel_Ligoski_CV_mes_2021PT.aux" 1639484565 1895 7bb7b5ee9d25f1c93fa082c161e660b6 "lualatex"
-  "Gabriel_Ligoski_CV_mes_2021PT.out" 1639484565 1538 79df6893c51c744d12061c435827af14 "lualatex"
-  "Gabriel_Ligoski_CV_mes_2021PT.tex" 1639484558 2915 3d27263f9e38e4a3732d9bdc7ee5b9ec ""
-  "d:/Latex/Curriculum/Gabriel_Ligoski_CV_mes_2021PT.tex" 1639484558 2915 3d27263f9e38e4a3732d9bdc7ee5b9ec ""
+  "Gabriel_Ligoski_CV_mes_2021EN.aux" 1639485590 1745 ddc113855309fc33a8b5c9443bea8f7f "lualatex"
+  "Gabriel_Ligoski_CV_mes_2021EN.out" 1639485590 1296 91d9c86cba7becde2659107659a6bff0 "lualatex"
+  "Gabriel_Ligoski_CV_mes_2021EN.tex" 1639485583 2753 cb6a3e973a778a41e39c26c306bb93e9 ""
+  "d:/Latex/Curriculum/Gabriel_Ligoski_CV_mes_2021EN.tex" 1639485583 2753 cb6a3e973a778a41e39c26c306bb93e9 ""
   "d:/TexLive/texlive/2021/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Bold.otf" 1631206826 104164 14b7c1bcf2c29994177a6cf635f33935 ""
   "d:/TexLive/texlive/2021/texmf-dist/fonts/opentype/impallari/raleway/Raleway-ExtraBold.otf" 1631206826 103380 84a7e4ec884d36e688b38523fd7c49dc ""
   "d:/TexLive/texlive/2021/texmf-dist/fonts/opentype/impallari/raleway/Raleway-ExtraLight.otf" 1631206826 101700 f88648e0de1ac336b84de5b766827992 ""
@@ -219,9 +219,9 @@
   "d:/TexLive/texlive/2021/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1631203372 13788 7d84439d2254ecfafc462aa76f790a5d ""
   "d:/TexLive/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1631210716 4399745 73f97c2b320877e9aff57ff3946a78eb ""
   "d:/TexLive/texlive/2021/texmf-var/web2c/luahbtex/lualatex.fmt" 1631210810 3350950 b5db443cd9cf948bf4226b89113d46cb ""
-  "my_cvPT.cls" 1631909770 3081 bd7f23438917b890d64f5bfa9cbcf096 ""
+  "my_cv.cls" 1631909645 3067 befae767450593525ba93ea214d4a732 ""
   (generated)
-  "Gabriel_Ligoski_CV_mes_2021PT.out"
-  "Gabriel_Ligoski_CV_mes_2021PT.log"
-  "Gabriel_Ligoski_CV_mes_2021PT.aux"
-  "Gabriel_Ligoski_CV_mes_2021PT.pdf"
+  "Gabriel_Ligoski_CV_mes_2021EN.log"
+  "Gabriel_Ligoski_CV_mes_2021EN.out"
+  "Gabriel_Ligoski_CV_mes_2021EN.pdf"
+  "Gabriel_Ligoski_CV_mes_2021EN.aux"
