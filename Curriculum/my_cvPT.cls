@@ -98,6 +98,7 @@
 {%
     \subsection{#1} %
     #2\\ %
+    #3\\ %
 }
 
 \newcommand*{\titletext}[7]
@@ -112,7 +113,7 @@
     \begin{flushright}
     \vspace*{-0.1cm}    
     {\ralewayextra Email} \textbf{#4}\\
-    {\ralewayextra Phone} \textbf{#5}\\
+    {\ralewayextra Celular} \textbf{#5}\\
     {\ralewayextra Github} \textbf{#6}\\
     \ifthenelse{\equal{#7}{}}{}{{\ralewayextra Linkedin} \textbf{#7}}%
 
